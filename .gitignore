@@ -1,0 +1,19 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore temporary files
+*~
+
+# Ignore dependencies
+/node_modules
+/bower_components
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env
+
+# Ignore macOS system files
+.DS_Store
